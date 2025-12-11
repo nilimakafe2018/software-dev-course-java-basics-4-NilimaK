@@ -42,7 +42,6 @@ public class StudentManager {
 
         mainMenu();
     }
-
     public void removeStudent() {
         // Prompt the user for a student name
         // Use the contains method to check if the student entered is in the list

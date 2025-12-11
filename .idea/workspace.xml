@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Added example exercise and improved instructions.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Initial commit message">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentManager.java" afterDir="false" />
     </list>
@@ -111,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748395036547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit message">
+      <option name="closed" value="true" />
+      <created>1765483017723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765483017723</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit message">
+      <option name="closed" value="true" />
+      <created>1765483033260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765483033260</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added collection choice exercises." />
     <MESSAGE value="Added example exercise and improved instructions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added example exercise and improved instructions." />
+    <MESSAGE value="Initial commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit message" />
   </component>
 </project>
