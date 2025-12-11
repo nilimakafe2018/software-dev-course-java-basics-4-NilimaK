@@ -101,7 +101,6 @@ public class CollectionExercises {
     public HashSet<String> makeFruitSet(String fruit1, String fruit2, String fruit3) {
         // Create and return a HashSet of strings with the given values
         // Replace the line below with your implementation
-
         HashSet<String> listUsingHashSet = new HashSet<String>();
         listUsingHashSet.add(fruit1);
         listUsingHashSet.add(fruit2);

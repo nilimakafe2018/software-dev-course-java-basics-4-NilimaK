@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Initial commit message">
+    <list default="true" id="b13f8ccd-818d-4d2e-a680-214593580794" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765483033260</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1765483094914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765483094914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +150,7 @@
     <MESSAGE value="Added collection choice exercises." />
     <MESSAGE value="Added example exercise and improved instructions." />
     <MESSAGE value="Initial commit message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit message" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
