@@ -58,7 +58,6 @@ public class StudentManager {
 
         mainMenu();
     }
-
     public void viewStudents() {
         // Loop through the list of students and print each one
         // (Use a for-each loop!)
