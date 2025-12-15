@@ -30,7 +30,6 @@ public class CollectionExercises {
         }
         return fruitsArray;
     }
-
     public String[] makeTopThreeArray(String[] fruits) {
         // Create and return a new array of strings containing the first three elements of the given array
         // Replace the line below with your implementation
@@ -64,7 +63,6 @@ public class CollectionExercises {
 
         return fruitsArrayList;
     }
-
     public ArrayList<String> makeListOfThreeFruits(String fruit1, String fruit2, String fruit3) {
         // Create and return an ArrayList of strings with the given values
         // Replace the line below with your implementation
